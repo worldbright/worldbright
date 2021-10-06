@@ -8,7 +8,7 @@
 
 studied __Computer Engineering at SKKU__  
   
-want __{back.warm, stomach.full}__  
+want __back.warm, stomach.full__  
 can do  
 <img src="https://img.shields.io/badge/-C-informational?logo=C">
 <img src="https://img.shields.io/badge/-C++-informational?logo=C%2B%2B">
