@@ -6,7 +6,6 @@
 ### __최세현__  
 
 studied __Computer Engineering at SKKU__  
-  
 want __back.warm, stomach.full__  
 can do  
 <img src="https://img.shields.io/badge/-C-informational?logo=C">
