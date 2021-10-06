@@ -1,10 +1,10 @@
+<a href="blog.naver.com/chltpgus11"><img src="https://img.shields.io/badge/-blog-orange"></a>
+
 최세현 (SeHyun Choi)
 
-want 등따시고 배부르게 and enjoying happy life
+want {back.warm, stomach.full}
 
 studied Computer Engineering at Sung Kyun Kwan Univ.
-
-
 
 BLOG  : http://blog.naver.com/chltpgus11
 
