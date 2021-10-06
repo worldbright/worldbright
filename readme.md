@@ -1,5 +1,6 @@
 <img src="https://img.shields.io/badge/-worldbright0%40gmail.com-red?style=flat&logo=gmail&logoColor=white"></a>
-<a href="http://blog.naver.com/chltpgus11"><img src="https://img.shields.io/badge/-blog-green?logo=https://blog.naver.com/favicon.ico"></a>
+<a href="http://blog.naver.com/chltpgus11"><img src="https://img.shields.io/badge/-blog-green"></a>
+<img src="https://blog.naver.com/favicon.ico">
 <a href="https://www.acmicpc.net/user/worldbright"><img src="https://img.shields.io/badge/-baekjoon-blue"></a>
 
 
