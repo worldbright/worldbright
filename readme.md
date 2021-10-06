@@ -6,7 +6,7 @@
 ### __최세현__  
 ### __SeHyun Choi__  
 
-### want {back.warm, stomach.full}  
+want {back.warm, stomach.full}  
 studied Computer Engineering at SKKU  
 
 
