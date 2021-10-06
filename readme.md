@@ -5,7 +5,7 @@
 
 
 ### 최세현
-# SeHyun Choi
+### SeHyun Choi
 
 want {back.warm, stomach.full}
 
