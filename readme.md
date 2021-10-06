@@ -7,7 +7,6 @@
 
 
 ### studied Computer Engineering at SKKU  
-### want {back.warm, stomach.full}  
 ### can <img src="https://img.shields.io/badge/-C-informational?logo=C"><img src="https://img.shields.io/badge/-C++-informational?logo=C%2B%2B"><img src="https://img.shields.io/badge/-Python-9cf?logo=python"><img src="https://img.shields.io/badge/-PyTorch-white?logo=pytorch"><img src="https://img.shields.io/badge/-Java-orange?logo=Java"><img src="https://img.shields.io/badge/-Spring-green?logo=spring"><img src="https://img.shields.io/badge/-Spring Boot-green?logo=springboot">  
 ### like 🎹🎸🎤🎮🎬🎨🖋🏕
 
