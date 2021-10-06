@@ -4,7 +4,7 @@
 <a href="https://www.acmicpc.net/user/worldbright"><img src="https://img.shields.io/badge//%3C%3E-baekjoon-blue?labelColor=blue"></a>
 
 ### __최세현__  
-</div>
+
 
 studied Computer Engineering at SKKU  
 want {back.warm, stomach.full}  
@@ -19,3 +19,4 @@ like 🎹🎸🎤🎮🎬🎨🖋🏕
 
 [![worldbright's GitHub stats](https://github-readme-stats.vercel.app/api?username=worldbright)](https://github.com/worldbright/)
 
+</div>
