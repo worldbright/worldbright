@@ -4,7 +4,7 @@
 
 want {back.warm, stomach.full}
 
-studied Computer Engineering at Sung Kyun Kwan Univ.
+studied Computer Engineering at SKKU
 
 BLOG  : http://blog.naver.com/chltpgus11
 
