@@ -6,11 +6,9 @@
 ### __최세현__  
 ### __SeHyun Choi__  
 
-studied  
-__Computer Engineering at SKKU__  
+studied __Computer Engineering at SKKU__  
   
-want  
-__{back.warm, stomach.full}__  
+want __{back.warm, stomach.full}__  
 can do  
 <img src="https://img.shields.io/badge/-C-informational?logo=C">
 <img src="https://img.shields.io/badge/-C++-informational?logo=C%2B%2B">
