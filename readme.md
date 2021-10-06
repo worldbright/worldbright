@@ -4,7 +4,6 @@
 <a href="https://www.acmicpc.net/user/worldbright"><img src="https://img.shields.io/badge//%3C%3E-baekjoon-blue?labelColor=blue"></a>
 
 ### __최세현__  
-### __SeHyun Choi__  
 
 studied __Computer Engineering at SKKU__  
   
