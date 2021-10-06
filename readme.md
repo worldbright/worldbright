@@ -14,7 +14,7 @@ can do
 <img src="https://img.shields.io/badge/-PyTorch-white?logo=pytorch">
 <img src="https://img.shields.io/badge/-Java-orange?logo=Java">
 <img src="https://img.shields.io/badge/-Spring-green?logo=spring">
-<img src="https://img.shields.io/badge/-Spring Boot-green?logo=springboot">
+<img src="https://img.shields.io/badge/-Spring Boot-green?logo=springboot">  
 like to do  
 🎹🎸🎤🎮🎬🎨🖋🏕
 
