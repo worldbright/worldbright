@@ -4,8 +4,8 @@
 <a href="https://www.acmicpc.net/user/worldbright"><img src="https://img.shields.io/badge//%3C%3E-baekjoon-blue?labelColor=blue"></a>
 
 
-#최세현
-#SeHyun Choi
+# 최세현
+# SeHyun Choi
 
 want {back.warm, stomach.full}
 
