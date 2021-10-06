@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/-worldbright0%40gmail.com-red?style=flat&logo=gmail&logoColor=white"></a>
+<img src="https://img.shields.io/badge/-worldbright0%40gmail.com-red?style=flat&logo=gmail&logoColor=white">
 <a href="http://blog.naver.com/chltpgus11"><img src="https://img.shields.io/badge/-blog-brightgreen?logo=LiveChat&logoColor=white"></a>
 <a href="https://www.acmicpc.net/user/worldbright"><img src="https://img.shields.io/badge//%3C%3E-baekjoon-blue?labelColor=blue"></a>
 
