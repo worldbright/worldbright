@@ -1,4 +1,4 @@
-SeHyun Choi
+최세현 (SeHyun Choi)
 
 
 studied Computer Engineering at Sung Kyun Kwan
