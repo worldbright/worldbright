@@ -1,4 +1,4 @@
-<a href="blog.naver.com/chltpgus11"><img src="https://img.shields.io/badge/-blog-orange"></a>
+<a href="http://blog.naver.com/chltpgus11"><img src="https://img.shields.io/badge/-blog-orange"></a>
 
 최세현 (SeHyun Choi)
 
