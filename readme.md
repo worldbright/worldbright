@@ -7,7 +7,7 @@
 ### __SeHyun Choi__  
 
 ### want {back.warm, stomach.full}  
-### studied Computer Engineering at SKKU  
+studied Computer Engineering at SKKU  
 
 
 [![worldbright's GitHub stats](https://github-readme-stats.vercel.app/api?username=worldbright)](https://github.com/worldbright/)
