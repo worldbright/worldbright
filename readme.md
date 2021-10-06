@@ -7,7 +7,7 @@
 
 studied Computer Engineering at SKKU  
 want back.warm, stomach.full  
-can do
+can do  
 <img src="https://img.shields.io/badge/-C-informational?logo=C">
 <img src="https://img.shields.io/badge/-C++-informational?logo=C%2B%2B">
 <img src="https://img.shields.io/badge/-Python-9cf?logo=python">
@@ -15,7 +15,8 @@ can do
 <img src="https://img.shields.io/badge/-Java-orange?logo=Java">
 <img src="https://img.shields.io/badge/-Spring-green?logo=spring">
 <img src="https://img.shields.io/badge/-Spring Boot-green?logo=springboot">
-
+like to do  
+🎹🎸🎤🎮🎬🎨🖋🏕
 
 [![worldbright's GitHub stats](https://github-readme-stats.vercel.app/api?username=worldbright)](https://github.com/worldbright/)
 </div>
