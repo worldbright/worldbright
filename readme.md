@@ -9,6 +9,5 @@
 
 ### Kakao Corp Software Engineer
 ### <img src="https://img.shields.io/badge/-Java-orange?logo=Java"> <img src="https://img.shields.io/badge/-Spring Boot-green?logo=springboot">
-### like 🎹🎸🎤🎮🎬🎨🖋🏕
 
 </div>
